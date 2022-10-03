@@ -17,6 +17,7 @@
     [super viewDidLoad];
 }
 
+// BViewController 无 test 方法时, 若打开注释, class_addMethod 会添加成功
 //- (void)test {
 //    NSLog(@"----------A");
 //}
